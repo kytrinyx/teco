@@ -1,10 +1,10 @@
-# xSLUG
+# xTECO
 
-Exercism problems in LANGUAGE.
+Exercism problems in TECO.
 
 ## TODO
 
-_Document how to contribute to the LANGUAGE track._
+_Document how to contribute to the TECO track._
 
 ## Contributing Guide
 
@@ -14,5 +14,5 @@ Please see the [contributing guide](https://github.com/exercism/x-api/blob/maste
 
 The MIT License (MIT)
 
-Copyright (c) 2015 Katrina Owen, _@kytrinyx.com
+Copyright (c) 2016 Katrina Owen, _@kytrinyx.com
 

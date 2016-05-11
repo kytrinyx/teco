@@ -1,7 +1,7 @@
 {
-  "slug": "SLUG",
-  "language": "LANGUAGE",
-  "repository": "https://github.com/exercism/xSLUG",
+  "slug": "teco",
+  "language": "TECO",
+  "repository": "https://github.com/exercism/xteco",
   "active": false,
   "test_pattern": "TODO",
   "problems": [
